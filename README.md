@@ -4,9 +4,7 @@
 
 Documentation made easy. Automatically generate Swagger docs for your Rails app with a simple drag and drop.
 
-![pika-1704863769966-1x](https://github.com/littleappdev/rails-swagger/assets/149556125/39011ff0-aeae-4af2-9695-7ef277d2b43e)
-
-
+![ezgif com-resize](https://github.com/littleappdev/rails-swagger/assets/149556125/e0c4ff8a-e13f-4e95-81b6-38c3b47f2a38)
 
 ## Features
 - No glue code required, just drag and drop to create first version of API doc.
